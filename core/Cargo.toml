@@ -16,7 +16,7 @@ async-trait = "0.1.53"
 ### MISC UTILS ###
 urlencoding = { workspace = true }
 cuid = "1.2.0"
-xml-rs = "0.8.4" # used for creating XML docs
+xml-rs = "0.8.14" # used for creating XML docs
 serde-xml-rs = "0.5.1" # used for serializing/deserializing xml
 itertools = "0.10.5"
 optional_struct = "0.2.0"
